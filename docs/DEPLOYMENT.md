@@ -8,7 +8,7 @@ Sniff Test is a standard Next.js 16 app. It has no database and no headless brow
 2. Go to **[vercel.com/new](https://vercel.com/new)** and sign in with GitHub.
 3. **Import** the `sniff-test` repository. Vercel detects Next.js automatically, so leave the build settings as they are.
 4. *(Optional)* Under **Environment Variables**, add `APIFY_TOKEN` if you want visitors to check links without their own key. Leave it out for a public site where each visitor brings a key.
-5. Click **Deploy**. About a minute later you get a live URL like `sniff-test.vercel.app`.
+5. Click **Deploy**. About a minute later you get a live URL like `sniff-test-xxxx.vercel.app` (Vercel adds a suffix if the name is taken; the official instance is [sniff-test-nine.vercel.app](https://sniff-test-nine.vercel.app)).
 
 From then on, **every push to `main` redeploys** automatically, and pull requests get their own preview URLs.
 

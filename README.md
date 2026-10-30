@@ -7,6 +7,8 @@
 **Do the reviews pass the sniff test?**
 Paste a Google Maps link and sniff out fake reviews before you book.
 
+**[Try it live → sniff-test-nine.vercel.app](https://sniff-test-nine.vercel.app)** · [see a demo report](https://sniff-test-nine.vercel.app/?demo=botfarm)
+
 [![CI](https://github.com/anketghosh/sniff-test/actions/workflows/ci.yml/badge.svg)](https://github.com/anketghosh/sniff-test/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-1f4d3a.svg)](LICENSE)
 ![Next.js 16](https://img.shields.io/badge/Next.js-16-111?logo=nextdotjs)
